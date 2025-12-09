@@ -13,7 +13,7 @@ La aplicación utiliza un conjunto robusto de **50 películas reales** con datos
 
 El proyecto está diseñado para ser un sitio estático de alto rendimiento. Puedes acceder a la versión desplegada en línea a través de Vercel:
 
-[**URL del Proyecto Desplegado**](<Pega aquí tu enlace de Vercel>)
+[**(https://mas-pelis-catalogo-v2.vercel.app/)**](<Pega aquí tu enlace de Vercel>)
 
 ---
 
